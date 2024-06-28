@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://leigione.github.io/sitemap
+Sitemap: https://leigione.github.io/app/sitemap
+Sitemap: https://leigione.github.io/assets/sitemap
+Sitemap: https://leigione.github.io/css/sitemap
+Sitemap: https://leigione.github.io/includes/sitemap
+Sitemap: https://leigione.github.io/item/sitemap
+Sitemap: https://leigione.github.io/src/sitemap
